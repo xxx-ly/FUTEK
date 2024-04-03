@@ -1,0 +1,183 @@
+.title,
+table.list-info th {
+    color: rgb(0,27,52);
+}
+
+img.photo:hover {
+    box-shadow: 0 1px 2px rgba(81, 114, 34, 0.8)
+}
+
+#navigation-bar {
+    border-bottom-color: rgb(0,27,52);
+}
+
+.top-bar {
+    background: linear-gradient(to right,rgb(0, 18, 29) 70%,#ffffff);
+}
+
+.top-bar .links a,
+.top-bar .links .link {
+    color: rgb(0,27,52);
+}
+
+.top-bar .links a:hover,
+.top-bar .links .link:hover {
+    color: #2C609C;
+}
+
+.te-logo {
+    /* background: url(../images/common/paid-member-bar-01.gif) no-repeat; */
+}
+
+.member-logo {
+    background: url(../images/common/paid-seller-member-logo.jpg)  center center/cover;
+}
+
+.theme-top {
+    border-top: 1px solid #ddecdc
+}
+
+.theme-right {
+    border-right: 1px solid #ddecdc
+}
+
+.theme-bottom {
+    border-bottom: 1px solid #ddecdc
+}
+
+.theme-left {
+    border-left: 1px solid #ddecdc
+}
+
+.theme-color {
+    color: rgb(0,27,52);
+}
+
+.theme-border {
+    border: 0.2px solid #CEE1CD;
+}
+
+.theme-bg {
+    background: #F4F9F3;
+}
+
+.service-navigator {
+    
+}
+
+.service-navigator ul li.main {
+    background: url(../images/common/sq-hold-green.gif) left no-repeat;
+    color: #aaa
+}
+
+.service-navigator ul li.sub {
+    background: url(../images/common/paid-member-bullet.gif) top left no-repeat;
+    color: #aaa
+}
+
+.service-navigator ul li.active {
+    font-weight: bold;
+}
+
+.service-navigator ul li.active a {
+    font-weight: bold;
+    color: rgb(0,27,52);
+}
+
+.service-navigator .sub-services {
+    background-color: #F4F9F3
+}
+
+.service-navigator .common-services {
+    border: solid 1px #cee1cd
+}
+
+.service-navigator .common-services a {
+    color: #666
+}
+
+.sell-lead-list #list-content #photo-holder {
+    display: none;
+}
+
+.sell-lead-list #list-content #photo-holder {
+    width: 625px;
+}
+
+div.section {
+    color: rgb(0,27,52);
+}
+
+#listing #list-content,
+.details-block .body,
+.details-block .section label,
+.feature-product-block .body {
+    background: #a6b2bc;
+}
+
+#list-content #photo-holder {
+    border-color: #b9c6a6
+}
+
+/* styles dedicated for pad menu */
+
+#navigation-menu .service-navigator {
+    border-top: solid 1px rgb(0,27,52);
+}
+
+#navigation-menu .service-navigator,
+.comany-profile-block .head,
+.news-block .head,
+.contact-info-block .head,
+.feature-product-block .head {
+    border-bottom: solid 1px rgb(0,27,52);
+}
+
+.service-navigator ul li.main.active a,
+.service-navigator ul li.main a:hover,
+.service-navigator ul li.main a.active,
+#prod-cata li.sub a:hover,
+.details-block .section:after,
+.comany-profile-block .head,
+.news-block .head,
+.contact-info-block .head,
+.feature-product-block .head {
+    background: rgb(0,27,52) !important;
+}
+
+#prod-cata,
+#listing #list-content:hover {
+    background: #f4f9f3 !important;
+}
+
+#prod-cata {
+    border: 1px solid rgb(0,27,52) !important;
+}
+
+.bodr-grey,
+.bodr-grey-bot,
+.details-block .desc,
+#listing #list-content {
+    border-color: rgb(0,27,52);
+}
+
+#side-block {
+    background: #edf0e8;
+}
+
+.side-widget .widget-head {
+    border-color: rgb(0,27,52);
+    color: rgb(0,27,52);
+}
+
+ul.prod-lines li+li {
+    border-color: #cad4bc;
+}
+
+ul.prod-lines a {
+    color: #738e4e
+}
+
+ul.prod-lines a:hover {
+    background: rgb(0,27,52)
+}

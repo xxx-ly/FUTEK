@@ -1,0 +1,547 @@
+#portlet-block {
+    float: left;
+    width: 228px;
+    margin-bottom: 7px
+}
+
+.portlet .portlet-head {
+    height: 22px;
+    background: url(../images/common/bar-blue.gif) repeat
+}
+
+.portlet .portlet-head .function-bar {
+    float: right;
+    font: normal 11px verdana;
+    line-height: 22px;
+    margin-right: 3px
+}
+
+.portlet .portlet-head .function-bar select {
+    font: normal 11px verdana
+}
+
+.portlet .portlet-head h2 {
+    font: bold 11px verdana;
+    margin-left: 5px;
+    padding: 0px;
+    line-height: 22px;
+    text-align: left;
+}
+
+.portlet .portlet-head h4 {
+    font: bold 11px verdana;
+    margin-left: 5px;
+    padding: 0px;
+    line-height: 22px;
+    text-align: left;
+}
+
+.portlet-body {
+    padding: 5px;
+    text-align: left
+}
+
+.portlet-body ul {
+    list-style: none outside;
+    padding: 0px;
+    margin: 0px;
+}
+
+.portlet-body ul li {
+    padding: 0px;
+    text-align: left;
+}
+
+.portlet-body ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.portlet-body ul li a:hover {
+    color: #FF6600
+}
+
+.portlet-body ul li div {
+    margin-bottom: 7px;
+}
+
+.portlet-body p {
+    clear: both;
+}
+
+#portlet-head-btl {
+    background: url(../images/common/grd-4px.gif) repeat;
+}
+
+#portlet-head-btl h4 {}
+
+#portlet-body-btl {
+    padding: 0px
+}
+
+#portlet-body-btl #register {
+    text-align: left;
+    padding-left: 5px;
+    padding-bottom: 35px;
+    background: url(../images/common/grd-4px.gif) repeat;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+#portlet-body-btl #bom {
+    font: normal 11px verdana;
+    color: #000000;
+    margin: 0px;
+}
+
+#portlet-body-btl #services {
+    text-align: left;
+    padding: 5px 0px 0px 5px;
+    border: 0px;
+}
+
+#portlet-body-btl #services p {
+    font: bold 10px verdana;
+    text-decoration: underline;
+    color: #4A547B;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+#portlet-body-btl #services .free {
+    font: bold 10px verdana;
+    text-decoration: underline;
+    color: #4A547B;
+    margin: 0px;
+}
+
+#portlet-body-btl #services ul {
+    font: normal 11px verdana;
+    list-style: square inside;
+    margin-bottom: 7px
+}
+
+#portlet-head-hp .function-bar a {
+    color: #0A246A;
+}
+
+#portlet-head-hp .function-bar a:hover {
+    color: #FF6600;
+}
+
+#portlet-body-hp .photo-frame {
+    width: 100%;
+    float: left;
+}
+
+#portlet-body-hp .photo-frame .photo-holder {
+    float: left;
+    margin: 5px 5px 5px 0px;
+}
+
+#portlet-body-hp .photo-frame .photo-holder img {
+    width: 80px;
+}
+
+#portlet-body-hp .photo-frame .photo-desc {
+    float: left;
+    width: 131px;
+    margin-top: 5px;
+    text-align: left;
+}
+
+#hpa .photo-frame,
+#nhp .photo-frame {
+    float: left;
+    width: 16.6%;
+}
+
+#hpa .photo-frame .photo-holder,
+#nhp .photo-frame .photo-holder {
+    float: none;
+    text-align: center;
+}
+
+#hpa .photo-frame .photo-desc,
+#nhp .photo-frame .photo-desc {
+    float: none;
+    width: auto;
+    margin-top: 0px;
+    text-align: center
+}
+
+#portlet-head-esm .function-bar a {
+    color: #0A246A;
+}
+
+#portlet-head-esm .function-bar a:hover {
+    color: #FF6600;
+}
+
+#portlet-body-esm .photo-frame {
+    width: 100%;
+    float: left;
+}
+
+#portlet-body-esm .photo-frame .photo-holder {
+    float: left;
+    margin: 5px 5px 5px 0px;
+}
+
+#portlet-body-esm .photo-frame .photo-holder img {
+    width: 100px;
+}
+
+#portlet-body-esm .photo-frame .photo-desc {
+    float: left;
+    width: 111px;
+    margin-top: 5px;
+    text-align: left;
+}
+
+#ema .photo-frame,
+#nem .photo-frame {
+    float: left;
+    width: 16.6%;
+}
+
+#ema .photo-frame .photo-holder,
+#nem .photo-frame .photo-holder {
+    float: none;
+    text-align: center;
+}
+
+#ema .photo-frame .photo-desc,
+#nem .photo-frame .photo-desc {
+    float: none;
+    width: auto;
+    margin-top: 0px;
+    text-align: center
+}
+
+#portlet-body-sus {
+    text-align: left
+}
+
+#portlet-body-sus img {
+    width: 80px;
+    margin-right: 5px;
+}
+
+#portlet-body-pmr {
+    text-align: left
+}
+
+#portlet-body-pmr img {
+    width: 80px;
+    margin-right: 5px;
+}
+
+#portlet-body-evt #evt-upcom {
+    text-align: left;
+}
+
+#portlet-body-evt #evt-upcom img {
+    width: 120px;
+    margin-left: 15px;
+}
+
+#portlet-body-evt h4 {
+    margin: 0px 0px 5px 0px;
+}
+
+#portlet-body-evt {
+    text-align: left
+}
+
+#portlet-body-evt #evt-upcom-desc {
+    font: normal 10px verdana;
+    margin: 0px;
+    padding: 0px;
+}
+
+#portlet-hs {
+    margin: auto;
+    width: 840px;
+    text-align: left;
+    padding: 15px 0px 15px 110px;
+}
+
+#portlet-hs h4 {
+    display: inline;
+    font: bold 12px verdana;
+    margin-left: 0px;
+}
+
+#portlet-hs h4 a {
+    color: black;
+    text-decoration: none
+}
+
+#portlet-hs h4 a:hover {
+    color: #FF6600
+}
+
+#portlet-hs .portlet-body {
+    margin-left: 0px;
+}
+
+#portlet-bnr .portlet-body {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+#portlet-head-bpd {
+    padding: 5px;
+    height: 73px;
+    text-align: left;
+    background: url(../images/common/browse-bg.gif) repeat;
+}
+
+#portlet-head-bpd h4 {
+    margin-left: 0px;
+    margin-bottom: 15px
+}
+
+#portlet-head-bpd h4 a {
+    color: #0A246A;
+    text-decoration: underline;
+}
+
+#portlet-head-bpd h4 a:hover {
+    color: #FF6600
+}
+
+#portlet-body-bpd #col2 {
+    float: left;
+    text-align: left
+}
+
+#portlet-body-bpd #col2 ul li {
+    margin-bottom: 13px
+}
+
+#portlet-body-bpd #col2 ul li a {
+    color: #0A246A;
+    text-decoration: underline;
+}
+
+#portlet-body-bpd #col2 ul li a:hover {
+    color: #FF6600
+}
+
+#portlet-head-par {
+    display: none
+}
+
+#portlet-body-par {
+    padding: 8px;
+}
+
+#portlet-body-par img {
+    width: 100px;
+    height: 110px;
+    margin-bottom: 10px
+}
+
+#portlet-emn .portlet-head {}
+
+#portlet-head-emn {}
+
+#portlet-subtitle-emd {
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.portlet-item-emd {
+    padding-bottom: 3px;
+}
+
+.portlet-item-emd div .country {
+    color: #568000;
+    font-family: verdana;
+    font-size: 11px;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: normal;
+}
+
+#portlet-tsh .portlet-head {}
+
+#portlet-head-tsh {}
+
+#portlet-body-tsh {
+    float: left;
+    text-align: left;
+    padding: 5px;
+}
+
+#portlet-body-tsh #tsh-num {
+    float: left;
+    margin-top: 5px;
+    width: 215px
+}
+
+#portlet-body-tsh #tsh-num ul {
+    float: left;
+}
+
+#portlet-body-tsh #tsh-num ul li {
+    float: left;
+    margin: 4px 5px 0px 5px;
+}
+
+#portlet-body-tmg ul {
+    list-style: square inside;
+    margin: 5px 0px 0px 0px;
+    padding: 5px 0px 0px 0px
+}
+
+#portlet-head-stl {
+    background: url(../images/common/grd-4px.gif) repeat;
+}
+
+#portlet-head-stl h4 {}
+
+#portlet-body-stl {
+    padding: 0px
+}
+
+#portlet-body-stl #register {
+    text-align: left;
+    padding-left: 5px;
+    padding-bottom: 35px;
+    background: url(../images/common/grd-4px.gif) repeat;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+#portlet-body-stl #bom {
+    font: normal 11px verdana;
+    color: #000000;
+    margin: 0px;
+}
+
+#portlet-body-stl #services {
+    text-align: left;
+    padding: 5px 0px 0px 5px;
+    border: 0px;
+}
+
+#portlet-body-stl #services p {
+    font: bold 10px verdana;
+    text-decoration: underline;
+    color: #4A547B;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+#portlet-body-stl #services .free {
+    font: bold 10px verdana;
+    text-decoration: underline;
+    color: #4A547B;
+    margin: 0px;
+}
+
+#portlet-body-stl #services ul {
+    font: normal 11px verdana;
+    list-style: square inside;
+    margin-bottom: 7px
+}
+
+#portlet-body-pbl {
+    text-align: left;
+    padding-left: 5px;
+    background: url(../images/common/grd-4px.gif) repeat;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+#portlet-body-pbl p {
+    font-family: verdana;
+    font-size: 10px;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: normal;
+    margin: 0px;
+}
+
+#portlet-body-pbl p a {
+    color: #8b0000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#portlet-body-pbl p a:hover {
+    color: #FF6600;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#portlet-body-pbl p a #normal {
+    font-weight: normal;
+    color: black;
+    text-decoration: none;
+}
+
+#portlet-body-pbl p a:hover #normal {
+    font-weight: normal;
+    color: black;
+    text-decoration: none;
+}
+
+#portlet-body-pbl p a b {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+#portlet-body-pbl p a:hover b {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+#portlet-head-subs {
+    background: url(../images/common/grd-4px.gif) repeat;
+}
+
+#portlet-head-subs h4 {}
+
+#portlet-body-subs {
+    padding: 0px
+}
+
+#portlet-body-subs #subs-services {
+    text-align: left;
+    padding: 5px 0px 5px 5px;
+    border: 0px;
+}
+
+#portlet-body-subs #subs-services p {
+    font: bold 10px verdana;
+    color: #4A547B;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+#portlet-head-rss {
+    background: url(../images/common/grd-4px.gif) repeat;
+}
+
+#portlet-head-rss h4 {}
+
+#portlet-body-rss {
+    padding: 0px
+}
+
+#portlet-body-rss #rss-services {
+    text-align: left;
+    padding: 5px 0px 5px 5px;
+    border: 0px;
+}
